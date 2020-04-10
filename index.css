@@ -1,0 +1,14 @@
+p#report{
+    
+    text-align: center;
+    padding-right: 35px;    
+}
+p#check{
+    
+    text-align: center;
+    padding-right: 35px;
+    padding-top: 100px;
+}
+label#lblSelect{
+   text-align: center;
+}
